@@ -1,1 +1,11 @@
-node-modules/
+# dependencies
+/node_modules
+
+# production
+/build
+
+# misc
+.DS_Store
+
+# logs
+npm-debug.log*
